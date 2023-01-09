@@ -1,1 +1,1 @@
-### a balance sheet exercise. the page can be viewed via actions.
+### a balance sheet exercise: https://olyakharlova.github.io/balance-sheet-ex/
